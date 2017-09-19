@@ -1,5 +1,5 @@
 ## nexusphp  takeupdate.php sqli
-###CVE-2017-12776
+### CVE-2017-12776
 ### powered by lijiangtao  from Anyuntec
 ### version: v1.5.beta5.20120707
 ### Download link:https://sourceforge.net/projects/nexusphp/
